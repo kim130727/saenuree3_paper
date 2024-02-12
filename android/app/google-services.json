@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508371363216",
+    "project_id": "saenuree3paper1",
+    "storage_bucket": "saenuree3paper1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508371363216:android:3c41843646c0b4b197ff15",
+        "android_client_info": {
+          "package_name": "com.example.saenuree3_paper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAai92vVuve2-VWif41tAP3SHu_DTImSLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
