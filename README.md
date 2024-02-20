@@ -1,16 +1,5 @@
 # saenuree3_paper
 
-A new Flutter project.
+새누리3교회 전자주보 프로젝트
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![새누리3교회로고](https://github.com/kim130727/saenuree3_paper/assets/47652911/4d7ef9bf-269c-49e3-8a14-b4455621faaf)
